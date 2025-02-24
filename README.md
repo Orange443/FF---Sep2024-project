@@ -1,6 +1,8 @@
 # Financial Forensics Project
-> Problem Statement:
+
 ![Gemini_Generated_Image_f0it1of0it1of0it](https://github.com/user-attachments/assets/a881bcab-b48f-418b-a810-32fe596e53d0)
+
+> Problem Statement:
 
 This project assesses the capability to understand companies' financial statements and ratios listed in the BSE and judge their future performance.  Given a budget of INR 10,00,000, the task is to create a portfolio as of time-period T1 using provided metrics covering balance sheets, P&L statements, cash flow statements, and other financial ratios, along with market prices at timesteps T1 and T2.    
 
