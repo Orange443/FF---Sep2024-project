@@ -13,6 +13,6 @@ Our selected portfolio from T1 to T3 achieved a remarkable 26% increase in value
 
 > Key Points:
 
-Analyzed financial statements and ratios of BSE-listed companies.    
-Created a portfolio within a budget of INR 10,00,000.    
-Achieved a 26% increase in portfolio value from T1 to T3.
+- Analyzed financial statements and ratios of BSE-listed companies.    
+- Created a portfolio within a budget of INR 10,00,000.    
+- Achieved a 26% increase in portfolio value from T1 to T3.
